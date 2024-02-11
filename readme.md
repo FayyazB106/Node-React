@@ -30,3 +30,6 @@ cd front-end
 npm start
 ```
 The UI will work in http://localhost:3000
+
+## License
+License: [MIT](https://opensource.org/licenses/MIT)
