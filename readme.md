@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 This is a RESTful API with a front-end or user interface(UI). This is the first time I worked with JavaScript, not just Node and React. 
 
 ## Description
