@@ -1,5 +1,5 @@
 ## Introduction
-This is a RESTful API with a front-end or user interface(UI). This is the first time I worked with JavaScript, not just Node and React. 
+This is a RESTful API with a front-end or user interface(UI). This is the first time I worked with JavaScript, not just Node and React. This was built for a challenge that had a deadline of 1 week.
 
 ## Description
 The back-end consists of an array and an API. The in-memory array is used to store data of university students taking a subject in a semester. The data consists of the student's name, a 3-digit student ID and major.
